@@ -1,7 +1,7 @@
 
 <!DOCTYPE html> 
 <!--<html manifest="snake.appcache">-->
-<head><base href='//www.coolmath-games.com//sites/cmatgame/files/public_games/24332/' />
+<head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script><!--
 
 JavaScript Snake
@@ -11,9 +11,9 @@ http://patorjk.com/games/snake
 Source code is available here: https://github.com/patorjk/JavaScript-Snake
 
 --> 
-    <title>Coolmath Games Snake</title>
+    <title>Snake Remastered</title>
 
-    <link rel=stylesheet id=style type=text/css href=./css/main-snake.css />
+    <link rel=stylesheet id=style type=text/css href="https://www.coolmath-games.com//sites/cmatgame/files/public_games/24332/css/main-snake.css" />
 <!--     <button class="theme-button" style="display:none;" onclick=getTheme()>Click to use this theme.</button>
     <select id="select" style="display:none;">
         <option>Dark Theme</option>
